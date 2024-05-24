@@ -34,3 +34,15 @@ To set up the ETL pipeline, follow these steps:
 3. Test your connection parameters, run [make connection] in your terminal
 
 4. To orchestrate the ETL process, run [make] in your terminal
+
+
+###Apendix
+
+##Contributors
+Benjamin Sakyi - bsakyi@trestleacademyghana.org - Project Lead
+Kenneth Boateng - boateng@trestleacademyghana.org
+Nana Kwame Opoku - nopoku@trestleacademyghana.org
+Frank Agbenyo Fugah - fugah@trestleacademyghana.org
+Carl Bebli - cbebli@trestleacademyghana.org
+Richard Owusu - rich@trestleacademyghana.org
+Delbert Pecker - pecker@trestleacademyghana.org
